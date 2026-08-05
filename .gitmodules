@@ -1,6 +1,6 @@
 [submodule "DenizenLangServer/SharpDenizenTools"]
 	path = DenizenLangServer/SharpDenizenTools
-	url = https://github.com/DenizenScript/SharpDenizenTools
+	url = https://github.com/MINEZ/SharpDenizenTools
 [submodule "DenizenLangServer/FreneticUtilities"]
 	path = DenizenLangServer/FreneticUtilities
 	url = https://github.com/FreneticLLC/FreneticUtilities
