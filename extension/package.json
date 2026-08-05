@@ -1,12 +1,12 @@
 {
-    "name": "denizenscript",
-    "displayName": "DenizenScript",
-    "description": "The Denizen scripting language.",
+    "name": "denizenscript-minez",
+    "displayName": "DenizenScript (MineZ)",
+    "description": "The Denizen scripting language, built against the MineZ fork of Denizen.",
     "author": "mcmonkey and the DenizenScript team",
     "version": "1.4.9",
     "publisher": "denizenscript",
     "license": "MIT",
-    "repository": "https://github.com/DenizenScript/DenizenVSCode",
+    "repository": "https://github.com/MINEZ/DenizenVSCode",
     "icon": "logo.png",
     "engines": {
         "vscode": "^1.34.0"
