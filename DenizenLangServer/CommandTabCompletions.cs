@@ -354,7 +354,7 @@ namespace DenizenLangServer
 
         public static string LinkMeta(MetaObject obj)
         {
-            return $"[Meta Docs: {obj.Type.WebPath} {DescriptionClean(obj.CleanName)}](https://" + $"meta.denizenscript.com/Docs/{obj.Type.WebPath}/{HttpUtility.UrlEncode(obj.CleanName)})";
+            return $"[Meta Docs: {obj.Type.WebPath} {DescriptionClean(obj.CleanName)}](https://" + $"denizen-meta.minez.cc/Docs/{obj.Type.WebPath}/{HttpUtility.UrlEncode(obj.CleanName)})";
         }
 
         public static MarkupContent DescribeCommand(MetaCommand command)
