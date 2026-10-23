@@ -209,7 +209,7 @@
             }
         },
         "scripts": {
-            "vscode:prepublish": "npm run compile",
+            "vscode:prepublish": "npm run compile && node ../docs/badges/upstream-badge.js",
             "compile": "tsc -p ./ --skipLibCheck"
         },
         "devDependencies": {
