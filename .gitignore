@@ -2,6 +2,7 @@ node_modules/
 .vscode/
 *.vsix
 out/
+extension/server/
 bin/
 obj/
 .vs/
